@@ -173,7 +173,7 @@ export default function AboutPage() {
                 className="w-40 h-40 mx-auto rounded-full mb-6 object-cover"
               />
               <h3 className="text-xl font-semibold text-gray-900">Aadresh Maghnani</h3>
-              <p className="text-purple-600 mb-3">Full Stack Developer</p>
+              <p className="text-purple-600 mb-3">Backend Developer</p>
               <p className="text-gray-600 text-sm">
                 Passionate about building scalable and user-friendly applications with React and Spring Boot.
               </p>
@@ -186,10 +186,10 @@ export default function AboutPage() {
                 alt="Member 3"
                 className="w-40 h-40 mx-auto rounded-full mb-6 object-cover"
               />
-              <h3 className="text-xl font-semibold text-gray-900">Jaffir Shaikh</h3>
-              <p className="text-purple-600 mb-3">Frontend Engineer</p>
+              <h3 className="text-xl font-semibold text-gray-900">Jaffar Shaikh</h3>
+              <p className="text-purple-600 mb-3">Theies</p>
               <p className="text-gray-600 text-sm">
-                Creative UI/UX enthusiast, making designs come alive with modern frameworks and clean layouts.
+                Contributed valuable support in writing and organizing the thesis.
               </p>
             </div>
 
@@ -200,10 +200,10 @@ export default function AboutPage() {
                 alt="Member 3"
                 className="w-40 h-40 mx-auto rounded-full mb-6 object-cover"
               />
-              <h3 className="text-xl font-semibold text-gray-900">------</h3>
-              <p className="text-purple-600 mb-3">Theies Writter</p>
+              <h3 className="text-xl font-semibold text-gray-900">Farooque Ali Channa</h3>
+              <p className="text-purple-600 mb-3">Frontend Developer</p>
               <p className="text-gray-600 text-sm">
-                Loves solving complex problems, designing APIs, and optimizing performance for seamless experiences.
+                Creative UI/UX enthusiast, making designs come alive with modern frameworks and clean layouts.
               </p>
             </div>
           </div>
